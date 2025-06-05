@@ -139,6 +139,28 @@ The model incorporates elements from established cardiac models including:
 - Standard calcium cycling mechanisms
 - Novel EV release formulations
 
+---
+
+## Citation
+
+If you use this code in your research, please cite:
+
+```bibtex
+@ARTICLE{9488662,
+  author={Rudsari, Hamid Khoshfekr and Veletić, Mladen and Bergsland, Jacob and Balasingham, Ilangko},
+  journal={IEEE Transactions on NanoBioscience}, 
+  title={Targeted Drug Delivery for Cardiovascular Disease: Modeling of Modulated Extracellular Vesicle Release Rates}, 
+  year={2021},
+  volume={20},
+  number={4},
+  pages={444-454},
+  keywords={Calcium;Targeted drug delivery;Molecular communication (telecommunication);Mathematical models;Cardiovascular diseases;Extracellular;Targeted drug delivery;cardiovascular diseases;molecular communication;extracellular vesicle;intracellular calcium signaling},
+  doi={10.1109/TNB.2021.3097698}}
+
+
+
+```
+
 
 
 ## Contact
@@ -147,5 +169,12 @@ Created by Hamid Khoshfekr Rudsari
 khoshfekr1994@gmail.com
 
 ---
+
+## Publication 
+
+H. K. Rudsari, M. Veletić, J. Bergsland and I. Balasingham, "Targeted Drug Delivery for Cardiovascular Disease: Modeling of Modulated Extracellular Vesicle Release Rates," in IEEE Transactions on NanoBioscience, vol. 20, no. 4, pp. 444-454, Oct. 2021, doi: 10.1109/TNB.2021.3097698.
+keywords: {Calcium;Targeted drug delivery;Molecular communication (telecommunication);Mathematical models;Cardiovascular diseases;Extracellular;Targeted drug delivery;cardiovascular diseases;molecular communication;extracellular vesicle;intracellular calcium signaling},
+
+
 
 *This model is intended for research purposes and provides insights into cardiac calcium dynamics and extracellular vesicle release mechanisms.*
